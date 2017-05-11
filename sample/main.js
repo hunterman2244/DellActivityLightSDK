@@ -5,7 +5,7 @@ chrome.app.runtime.onLaunched.addListener(function() {
       width: 400,
       height: 150
     },
-    resizable: false
+    resizable: true
   }, function(openedWindow) {
     chrome.app.window.get('sampleMain').onClosed.addListener(function() {
       chrome.app.window.get('virtualLed').close();
