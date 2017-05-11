@@ -1,15 +1,15 @@
 {
-  "manifest_version": 2,
-  "name": "Dell Blink Sample",
-  "description": "Dell LED Controller - Sample Code",
+  "manifest_version": 73,
+  "name": "Hunter's test",
+  "description": "test",
   "icons": {
-    "128": "images/ic_launch-128.png"
+    "128": "images/photo.jpg"
   },
-  "version": "1.0.17",
+  "version": "66.6",
   "app": {
     "background": {
       "scripts": ["main.js"],
-      "persistent": false
+      "persistent": true
     }
   },
   "permissions": [
