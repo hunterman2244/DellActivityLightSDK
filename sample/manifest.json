@@ -3,7 +3,7 @@
   "name": "Hunter's test",
   "description": "test",
   "icons": {
-    "128": "images/photo.jpg"
+    "128": "images/ic_launch-128.png"
   },
   "version": "66.6",
   "app": {
